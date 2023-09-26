@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "649588830033",
+    "project_id": "wassup-app-cr7",
+    "storage_bucket": "wassup-app-cr7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649588830033:android:2437f795a71dd6842c6d70",
+        "android_client_info": {
+          "package_name": "com.example.newassn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649588830033-g8k1b01j3ar6be1k7tp016l7g47v4cc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALoj_bvgk0-aY0_aRSYYezkjdb-Ixu5F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649588830033-g8k1b01j3ar6be1k7tp016l7g47v4cc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649588830033-eh5h1fm4ai7l3sbdsc9hrp6dv9g4n31t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newassn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
