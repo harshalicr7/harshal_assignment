@@ -5,6 +5,8 @@ import 'application/pages/home/home_screen.dart';
 import 'application/pages/login/login_screen.dart';
 import 'firebase_options.dart';
 
+// paste firebase_options.dart file in root of the lib folder
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
